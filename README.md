@@ -1,2 +1,2 @@
 # decoder
-Project repository for python mmulti-algorithm decoder
+Project repository for python multi-algorithm decoder
